@@ -2,10 +2,12 @@
 layout: default
 ---
 
+<br>
+
 # Experience 💼
 
 
-### **Junior Software Developer (Intern)**,  [Trigital Technologies](https://www.trigital.in/)
+### **Junior Software Developer (Intern)**, <br><br>[Trigital Technologies](https://www.trigital.in/)
 <!-- ### [Trigital Technologies](https://www.trigital.in/) | Junior Software Developer (Intern) -->
 
 *July 2021 - October 2021*
