@@ -2,11 +2,6 @@
 layout: default
 ---
 
-
-
-wecdewfe
-
-
 # Experience 💼
 
 
