@@ -84,6 +84,18 @@ them to students via email. It is currently in use by the Directorate of Student
 [...see all projects](./projects)
 
 ---
+# Skills 🎖️
+
+### Programming
+C, C++, Python, JavaScript, Java, Go, Dart, HTML, CSS
+
+### Technologies
+Node.js, Docker, NGINX,Flutter, Git, AWS, GCP, Firebase, Heroku, Hasura, React, TailwindCSS
+
+### Databases
+MySQL, PostgreSQL, MongoDB, Redis, InfluxDB
+
+---
 # Education 🎓
 
 ### [GITAM (Deemed to be University), Hyderabad](https://gitam.edu/)
@@ -108,18 +120,6 @@ them to students via email. It is currently in use by the Directorate of Student
   * Student Life Intern - *`Jul 2022 to Dec 2022`*
 
   * Student Life Associate - *`Sep 2022 to Jul 2022`*
-
----
-# Skills 🎖️
-
-### Programming
-C, C++, Python, JavaScript, Java, Go, Dart, HTML, CSS
-
-### Technologies
-Node.js, Docker, NGINX,Flutter, Git, AWS, GCP, Firebase, Heroku, Hasura, React, TailwindCSS
-
-### Databases
-MySQL, PostgreSQL, MongoDB, Redis, InfluxDB
 
 ---
 # Achievements 🏆
