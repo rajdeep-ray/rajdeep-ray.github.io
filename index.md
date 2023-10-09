@@ -10,7 +10,7 @@ layout: default
 ### **Junior Software Developer (Intern)**, [Trigital Technologies](https://www.trigital.in/)
 <!-- ### [Trigital Technologies](https://www.trigital.in/) | Junior Software Developer (Intern) -->
 
-*July 2021 - October 2021*
+*July 2022 - October 2022*
 
 * Developed dynamic link referral generation that supports one of the crucial functionalities of an e-commerce referral system.
 * Optimized existing code to improve system performance and reliability, and developed new features and REST APIs in production while collaborating with the team to meet requirements.
