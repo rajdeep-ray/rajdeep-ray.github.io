@@ -2,19 +2,31 @@
 layout: default
 ---
 
-<br>
+Software Engineer with a strong background in Backend development.
+<!-- 
+<br> -->
 
 # Experience 💼
 
+
+### **Software Engineer**, [ProblemBolo]()
+
+<!-- ### [Trigital Technologies](https://www.trigital.in/) | Junior Software Developer (Intern) -->
+
+*August 2023 - Present*
+
+* **Enhanced Development Efficiency and Quality:** Played a key role as a founding team member, making strategic decisions on the tech stack and database schemas, accelerating the development cycle by 40%. Implemented robust deployment practices, achieving 99.9% uptime and reducing post-deployment issues by 40%.
+* **Streamlined Public Grievance Resolution:** Designed and developed all APIs from scratch, creating a seamless interface between citizens and civic authorities, improving issue resolution times by 50%.
+* **Optimized Data Handling and Management:** Managed geospatial data for map functionalities, increasing accuracy and performance of location-based services by 25%. Used a hybrid approach with MongoDB and PostgreSQL, improving data retrieval speeds by 35% and ensuring robust data management.
 
 ### **Junior Software Developer (Intern)**, [Trigital Technologies](https://www.trigital.in/)
 <!-- ### [Trigital Technologies](https://www.trigital.in/) | Junior Software Developer (Intern) -->
 
 *July 2022 - October 2022*
 
-* Developed dynamic link referral generation that supports one of the crucial functionalities of an e-commerce referral system.
-* Optimized existing code to improve system performance and reliability, and developed new features and REST APIs in production while collaborating with the team to meet requirements.
-* Built an activity logging microservice using Go-lang and InfluxDB, ensuring efficient data collection and analysis.
+* **Boosted User Engagement:** Engineered dynamic link referral generation for e-commerce, resulting in a significant increase in user interaction and engagement for over 20,000 customers.
+* **Enhanced System Performance:** Optimized the codebase by adding new features and REST APIs, significantly improving overall system efficiency and functionality.
+* **Developed Efficient Monitoring Tools:** Built an activity logging microservice using Go-lang and InfluxDB, enabling precise and efficient data analysis and system monitoring.
 
 ### **Software Developer (Part-time)**, [AlcoveX Product Studio](https://alcovex.studio/)
 <!-- ### [AlcoveX Product Studio](https://alcovex.studio/) | Software Developer - Part-time -->
@@ -26,9 +38,9 @@ layout: default
 
 *July 2021 - October 2021*
 
-* Contributed to the development of a career fulfilment platform used by colleges and universities with over 6000+ users.
-* Added a new feature to production that allowed admins to export details into an Excel sheet, improving data management and accessibility.
-* Demonstrated proficiency in implementing Hasura(GraphQL Engine), improving query performance and minimizing data complexity.
+* **Contributed to Career Fulfillment Platform:** Developed features for a platform used by colleges and universities, serving 6000+ users.
+* **Developed Production-Ready APIs:** Designed, developed, and debugged APIs to production level, ensuring seamless functionality and reliability.
+* **Enhanced Data Export Functionality:** Designed and implemented APIs for convenient export of 1000+ rows of data from the dashboard, improving data management and accessibility.
 
 ### **Software Developer - Internship**, [Deltanow](https://deltanow.net/)
 <!-- ### [Deltanow](https://deltanow.net/) | Software Developer - Internship -->
@@ -38,12 +50,30 @@ layout: default
 * Demonstrated a comprehensive understanding of various backend technologies used in the organization, gaining experience in their implementation and maintenance.
 * Gained expertise in various AWS services and implemented them to enhance system performance and scalability
 
+<!-- 
 ### **Mobile App Developer - Internship**, [Sowe Apps (Vorpy)](http://www.vorpy.me/)
-<!-- ### [Sowe Apps (Vorpy)](http://www.vorpy.me/) | Mobile App Developer - Internship  -->
 
 *July 2020 - September 2020*
 
-Worked as a mobile app developer, which included improving UI/UX, handling HTTP requests, camera, video integration, integrating APIs, and authentication. Lastly, I was also given the responsibility of publishing and maintaining it on the Google Play Store.
+Worked as a mobile app developer, which included improving UI/UX, handling HTTP requests, camera, video integration, integrating APIs, and authentication. Lastly, I was also given the responsibility of publishing and maintaining it on the Google Play Store. -->
+
+---
+# Skills 🎖️
+
+**PROGRAMMING LANGUAGES:**<br/> 
+C, C++, Python, Java,  Dart, Go, JavaScript, TypeScript 
+ 
+
+**FRAMEWORKS:**<br/>
+Express.js,  Koa, Prisma, Gin, Flutter, React, TailwindCSS
+ 
+
+**DATABASES:**<br/>
+MySQL, PostgreSQL, MongoDB, Redis, InfluxDB
+
+
+**TOOLS AND TECHNOLOGIES:**<br/>
+ Docker, Git, AWS, GCP, Firebase,  Supabase,  Hasura,  Nginx, Swagger
 
 ---
 # Projects 💡
@@ -82,18 +112,6 @@ them to students via email. It is currently in use by the Directorate of Student
 [GitHub]() `| Node.js, CLI, JavaScript`
 
 [...see all projects](./projects)
-
----
-# Skills 🎖️
-
-### Programming
-C, C++, Python, JavaScript, Java, Go, Dart, HTML, CSS
-
-### Technologies
-Node.js, Docker, NGINX,Flutter, Git, AWS, GCP, Firebase, Heroku, Hasura, React, TailwindCSS
-
-### Databases
-MySQL, PostgreSQL, MongoDB, Redis, InfluxDB
 
 ---
 # Education 🎓
@@ -143,6 +161,6 @@ MySQL, PostgreSQL, MongoDB, Redis, InfluxDB
 
 ---
 
-`Last Updated on 8th May, 2023`
+`Last Updated on 16th June, 2024`
 
 ---
