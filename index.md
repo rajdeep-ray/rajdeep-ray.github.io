@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Software Engineer with a strong background in Backend development.
+As a dedicated backend developer with a strong focus on Node.js, I excel in building robust and scalable server-side applications. My experience includes designing and implementing RESTful APIs, optimizing database schemas, and ensuring seamless data flow and management using technologies like PostgreSQL, MongoDB, and Redis. I am passionate about solving complex problems and improving backend efficiency, and I am committed to delivering high-quality, reliable solutions.
 <!-- 
 <br> -->
 
