@@ -8,12 +8,17 @@ As a dedicated backend developer with a strong focus on Node.js, I excel in buil
 
 # Experience 💼
 
+### **Junior Product Engineer**, [ABC Fitness](https://abcfitness.com/)
+
+<!-- ### [Trigital Technologies](https://www.trigital.in/) | Junior Software Developer (Intern) -->
+
+*November 2024 - Present*
 
 ### **Software Engineer**, [ProblemBolo]()
 
 <!-- ### [Trigital Technologies](https://www.trigital.in/) | Junior Software Developer (Intern) -->
 
-*August 2023 - Present*
+*August 2023 - November 2024*
 
 * **Enhanced Development Efficiency and Quality:** Played a key role as a founding team member, making strategic decisions on the tech stack and database schemas, accelerating the development cycle by 40%. Implemented robust deployment practices, achieving 99.9% uptime and reducing post-deployment issues by 40%.
 * **Streamlined Public Grievance Resolution:** Designed and developed all APIs from scratch, creating a seamless interface between citizens and civic authorities, improving issue resolution times by 50%.
